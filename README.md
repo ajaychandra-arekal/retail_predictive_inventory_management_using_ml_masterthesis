@@ -31,5 +31,3 @@ Model performance comparison (as per the thesis analysis) shows:
 ### References
 For additional details on the methodology, please refer to the full thesis document.
 
-This README provides an overview of the project’s objectives, features, key findings, and future enhancements.
-
